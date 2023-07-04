@@ -1,4 +1,3 @@
-# Ashutosh Shukla_Portfolio
 
 # [Project name : Predicting Customer Lifetime value for an Auto Insurance company using Supervised Machine Learning](https://github.com/Ashutosh46/Project)
 
