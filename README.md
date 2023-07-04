@@ -1,4 +1,3 @@
-
 # [Project name : Predicting Customer Lifetime value for an Auto Insurance company using Supervised Machine Learning](https://github.com/Ashutosh46/Project)
 
 * Dataset was generated from kaggle.
@@ -6,4 +5,4 @@
 * Achieved an accuracy of 89% by implementing Hyperparameter Tuning on the dataset.
 * Predicted Customer Lifetime Value making use of Random Forest Regression Technique
 
-## ![](Images/customer lifetime value.jpg)
+![customer lifetime value](https://github.com/Ashutosh46/Ashutosh-Shukla_Portfolio/assets/91247514/571c6350-5444-4171-9912-2e8a9e0baa43)
