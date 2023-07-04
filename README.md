@@ -5,4 +5,4 @@
 * Managed to organize the data through EDA, Feature Engineering, Feature Scaling and Feature Selection.
 * Achieved an accuracy of 89% by implementing Hyperparameter Tuning on the dataset.
 * Predicted Customer Lifetime Value making use of Random Forest Regression Technique.
-* ![](Images/customer lifetime value.jpg)
+## ![](Images/customer lifetime value.jpg)
