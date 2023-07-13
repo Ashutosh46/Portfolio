@@ -23,4 +23,4 @@ I am a Data Science Post Graduate. I am looking for a job opportunity in the fie
 
 [Data Science: Python for Data Analysis Bootcamp 2022 Full Bootcamp](https://udemy-certificate.s3.amazonaws.com/pdf/UC-5e37be9f-73f5-419a-8570-83ae2dd2630d.pdf) | Udemy | July 2022       
 
-![]()  
+![](https://github.com/Ashutosh46/Portfolio/blob/main/certificate%203.jpg)     
