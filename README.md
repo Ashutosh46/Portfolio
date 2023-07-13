@@ -9,13 +9,13 @@ I am a Data Science Post Graduate. I am looking for a job opportunity in the fie
 * Achieved an accuracy of 89% by implementing Hyperparameter Tuning on the dataset.
 * Predicted Customer Lifetime Value making use of Random Forest Regression Technique
 
-![customer lifetime value](https://github.com/Ashutosh46/Portfolio/blob/main/customer%20lifetime%20value.jpg)   
+![](https://github.com/Ashutosh46/Portfolio/blob/main/customer%20lifetime%20value.jpg)   
 
 ## Certifications -   
 
 [Python-Introduction to Data Science and Machine Learning A-Z](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9124aca3-a496-4ded-9767-8acbfffba872.pdf) | Udemy | April 2022        
      
-![](https://github.com/Ashutosh46/Portfolio/blob/main/certificate%201.jpg)     
+![]()   
 
 [Python-Introduction to Data Science and Machine Learning A-Z](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9124aca3-a496-4ded-9767-8acbfffba872.pdf) | Udemy | April 2022       
 
