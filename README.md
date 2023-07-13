@@ -17,9 +17,11 @@ I am a Data Science Post Graduate. I am looking for a job opportunity in the fie
      
 ![certificate 1](/Portfolio/certificate 1.jpg)         
 
+
 [Python-Introduction to Data Science and Machine Learning A-Z](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9124aca3-a496-4ded-9767-8acbfffba872.pdf) | Udemy | April 2022       
 
 ![certificate 2](/Portfolio/certificate 2.jpg)          
+
 
 [Data Science: Python for Data Analysis Bootcamp 2022 Full Bootcamp](https://udemy-certificate.s3.amazonaws.com/pdf/UC-5e37be9f-73f5-419a-8570-83ae2dd2630d.pdf) | Udemy | July 2022       
 
