@@ -1,5 +1,5 @@
 ### About me   
-Hello,my name is Ashutosh Shukla. I am a Data Science Post Graduate. I am looking for a job opportunity in the field of data science so that i can learn more on this field.   
+Hello, my name is Ashutosh Shukla. I am a Data Science Post Graduate. I am looking for a job opportunity in the field of data science so that i can learn and explore more in this field. I am proficient in Python, SQL, Tableau and Excel. I have in knowledge on a range of topics such as Statistics, Machine Learning, Deep Learning and Natural Language Processing.       
 ### [Project 1 : Predicting Customer Lifetime value for an Auto Insurance company using Supervised Machine Learning](https://github.com/Ashutosh46/Project)
 
 * Dataset was generated from kaggle.
