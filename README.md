@@ -14,4 +14,8 @@ I am a Data Science Post Graduate. I am looking for a job opportunity in the fie
 ## Certifications -   
 
 [Python-Introduction to Data Science and Machine Learning A-Z](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9124aca3-a496-4ded-9767-8acbfffba872.pdf) | Udemy | April 2022   
-![Certificate 1](
+
+![Certificate 1](https://github.com/Ashutosh46/Portfolio/blob/main/certificate%201.jpg)  
+
+
+
