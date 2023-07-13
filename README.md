@@ -8,19 +8,19 @@ I am a Data Science Post Graduate. I am looking for a job opportunity in the fie
 * Managed to organize the data through EDA, Feature Engineering, Feature Scaling and Feature Selection.
 * Achieved an accuracy of 89% by implementing Hyperparameter Tuning on the dataset.
 * Predicted Customer Lifetime Value making use of Random Forest Regression Technique
-
-![customer lifetime value](https://github.com/Ashutosh46/Portfolio/blob/main/customer%20lifetime%20value.JPG)   
+     
+![customer lifetime value](https://github.com/Ashutosh46/Portfolio/blob/main/customer%20lifetime%20value.jpg)   
 
 ## Certifications -   
 
 [Python-Introduction to Data Science and Machine Learning A-Z](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9124aca3-a496-4ded-9767-8acbfffba872.pdf) | Udemy | April 2022        
      
-![certificate 1](https://github.com/Ashutosh46/Portfolio/blob/main/certificate%201.JPG)      
+![certificate 1](https://github.com/Ashutosh46/Portfolio/blob/main/certificate%201.jpg)      
 
 [Python-Introduction to Data Science and Machine Learning A-Z](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9124aca3-a496-4ded-9767-8acbfffba872.pdf) | Udemy | April 2022       
 
-![certificate 2](https://github.com/Ashutosh46/Portfolio/blob/main/certificate%202.JPG)       
+![certificate 2](https://github.com/Ashutosh46/Portfolio/blob/main/certificate%202.jpg)       
 
 [Data Science: Python for Data Analysis Bootcamp 2022 Full Bootcamp](https://udemy-certificate.s3.amazonaws.com/pdf/UC-5e37be9f-73f5-419a-8570-83ae2dd2630d.pdf) | Udemy | July 2022       
 
-![certificate 3](https://github.com/Ashutosh46/Portfolio/blob/main/certificate%203.JPG)     
+![certificate 3](https://github.com/Ashutosh46/Portfolio/blob/main/certificate%203.jpg)     
