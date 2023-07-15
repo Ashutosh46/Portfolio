@@ -18,7 +18,7 @@ Hi There! I am Ashutosh Shukla, an aspiring Data Scientist.I am a Data Science P
 * Performed univariate and bivariate analysis of the features and analyzed the dataset for Oulier detection.    
 * Charted the data science salaries in various countries along with their dependant factors.
 
-![data science salaries](/Portfolio/data science salaries.jpg)  
+![data science salaries](/Portfolio/data science salaries.jpg)    
 
 ## Certifications -   
 
