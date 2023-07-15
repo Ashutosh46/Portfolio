@@ -22,7 +22,7 @@ Hi There! I am Ashutosh Shukla, an aspiring Data Scientist.I am a Data Science P
 
 ## Certifications -   
 
-[Python-Introduction to Data Science and Machine Learning A-Z](https://udemy-certificate.s3.amazonaws.com/pdf/UC-9124aca3-a496-4ded-9767-8acbfffba872.pdf) | Udemy | April 2022        
+[Linear Regression and Logistic Regression in Python(https://udemy-certificate.s3.amazonaws.com/pdf/UC-87e6a523-1756-41e3-b088-91561d20637d.pdf) | Udemy | April 2022          
      
 ![certificate 1](/Portfolio/certificate 1.jpg)         
 
