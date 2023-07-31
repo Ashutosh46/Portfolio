@@ -25,7 +25,9 @@ Hi There! I am Ashutosh Shukla, an aspiring Data Scientist.I am a Data Science P
 * Dataset was acquired from kaggle.
 * Performed Exploratory Data Analysis to discover hideen patterns in the dataset.  
 * Predicted Insurance Claim using Logistic Regression.   
-* Evaluated the model on various metrics.   
+* Evaluated the model on various metrics.
+
+![insurance claim](/Portfolio/insurance claim.jpeg)  
 
 ## Certifications -   
 
