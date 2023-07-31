@@ -27,7 +27,7 @@ Hi There! I am Ashutosh Shukla, an aspiring Data Scientist.I am a Data Science P
 * Predicted Insurance Claim using Logistic Regression.   
 * Evaluated the model on various metrics.
 
-![insurance claim](/Portfolio/insurance claim.jpeg)  
+![insurance claim](/Portfolio/insurance claim.jpg)  
 
 ## Certifications -   
 
