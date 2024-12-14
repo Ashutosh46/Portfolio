@@ -1,5 +1,5 @@
 ## About me               
-Hi There! I am Ashutosh Shukla, an aspiring Data Scientist.I am a Data Science Post Graduate. I am looking for a job opportunity in the field of data science so that i can gain hands on experience and explore more in this field. I am proficient in Python, SQL, Tableau and Excel. I have in knowledge on a range of topics such as Statistics, Machine Learning, Deep Learning and Natural Language Processing.    
+Hi There! I am Ashutosh Shukla, An individual with strong understanding of data analytics. Proficient in Python, Excel and SQL. I have comprehensive knowledge on Machine Learning and Deep Learning. Looking forward to build my career in the Data Science domain.    
 ## Projects - 
 
 ### [Predicting Customer Lifetime value for an Auto Insurance company using Supervised Machine Learning](https://github.com/Ashutosh46/Project1.github.io)
@@ -29,7 +29,9 @@ Hi There! I am Ashutosh Shukla, an aspiring Data Scientist.I am a Data Science P
 
 ![insurance claim](/Portfolio/insurance claim.jpg)  
 
-## Certifications -   
+## Certifications -  
+
+[Oracle Database Sql Certified Associate](https://drive.google.com/file/d/1CjWA7Y7pWsGXhWjwBYWMhcdWGqnAChzV/view?usp=drivesdk) | October | 2024
 
 [Linear Regression and Logistic Regression in Python](https://udemy-certificate.s3.amazonaws.com/pdf/UC-87e6a523-1756-41e3-b088-91561d20637d.pdf) | Udemy | April 2022          
      
