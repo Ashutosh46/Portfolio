@@ -1,6 +1,22 @@
 ## About me               
 Hi There! I am Ashutosh Shukla, a Risk Analytics professional with 2 years of experience in Credit Risk model Validation and data driven decision making. Skilled in technical tools like Python, SQL and Excel with hands-on expertise in deriving actionable insights. Proficient in Statistics, Machine Learning, financial regulations and Data analytics and experience in working with Consultative environment.
-## Projects - 
+## Professional Experience
+
+### Assistant System Engineer | Tata Consultancy Services                                                                September 2023 - Present
+
+* Contributed to the end-to-end validation of PD models for application scorecards for retail portfolio for
+Indian banks using Excel and Python.
+* Performed validation of the Bad flag using Markov Chain Roll-rate analysis and Feature selection process
+using Fine Classing and Coarse Classing techniques.
+* Validated model fitting using Logistic Regression and checked robustness of models using various performance metrics like KS, GINI, Confusion matrix, AUC/ROC, Brier score, F1 score, HL test, PSI, etc for the development samples and OOT samples.
+* Prepared comprehensive Internal validation reports based on the findings of the developers in model development document.
+
+## Skills
+
+* Professional Skills: Statistics, Model Risk Management, Strong analytical and problem solving, attention to detail, Data Mining, Hypothesis testing, Time Series, ANNs, Statistical Modeling, Regression, Decision Trees, Clustering, SVM, Random Forest, XGBoost, Statistical Software, data analysis, Clear and Confident Communication, technical report writing.
+* Technical Skills: Python, Excel , SQL.
+
+## Projects
 
 ### [Predicting Customer Lifetime value for an Auto Insurance company using Supervised Machine Learning](https://github.com/Ashutosh46/Project1.github.io)
 
@@ -40,6 +56,8 @@ Hi There! I am Ashutosh Shukla, a Risk Analytics professional with 2 years of ex
 ![certificate 5](/Portfolio/certificate 5.jpg)
 
 [Oracle Database Sql Certified Associate](https://drive.google.com/file/d/1CjWA7Y7pWsGXhWjwBYWMhcdWGqnAChzV/view?usp=drivesdk)
+
+![certificate 6](/Portfolio/certificate 6.jpg)
 
 [Linear Regression and Logistic Regression in Python](https://udemy-certificate.s3.amazonaws.com/pdf/UC-87e6a523-1756-41e3-b088-91561d20637d.pdf)        
      
