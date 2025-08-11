@@ -2,7 +2,7 @@
 Hi There! I am Ashutosh Shukla, a Risk Analytics professional with 2 years of experience in Credit Risk model Validation and data driven decision making. Skilled in technical tools like Python, SQL and Excel with hands-on expertise in deriving actionable insights. Proficient in Statistics, Machine Learning, financial regulations and Data analytics and experience in working with Consultative environment.
 ## Professional Experience
 
-### Assistant System Engineer | Tata Consultancy Services                                                                                September 2023 - Present
+### Assistant System Engineer | Tata Consultancy Services                                                                                (September 2023 - Present)
 
 * Contributed to the end-to-end validation of **PD models** for **application scorecards** for **retail portfolio** for
 **Indian banks** using **Python** and **Excel**.
